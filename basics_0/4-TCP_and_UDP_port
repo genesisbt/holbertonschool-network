@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 # script for netstat
 
-netstat -lp
+netstat -l
+netstat -p
